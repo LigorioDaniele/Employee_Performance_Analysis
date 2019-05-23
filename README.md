@@ -1,7 +1,7 @@
 ## Goal
 
 ```
--Wich are the key Factors that determine a good or bad performace of our employee?
+-What are the key Factors that define a good or bad performace of our employee?
 -Predict the performace of an employee
 -Build a system which may assist in recruitment process
 ```
