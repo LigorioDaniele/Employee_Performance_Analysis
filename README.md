@@ -22,12 +22,6 @@
 ## Overall Rating Segmentation
 ![Rating](https://user-images.githubusercontent.com/16623583/58028254-9d4dd280-7b1a-11e9-9e76-98d8b8088b5d.JPG)
 
-## Data Exploration
-
-![DE1](https://user-images.githubusercontent.com/16623583/58027932-f8cb9080-7b19-11e9-9ff3-e8a69fb72a3a.JPG)
-![DE2](https://user-images.githubusercontent.com/16623583/58027951-fff29e80-7b19-11e9-8eb6-db2f73bf6b6d.JPG)
-![DE3](https://user-images.githubusercontent.com/16623583/58027958-041ebc00-7b1a-11e9-9b05-b8532d478a40.JPG)
-
 ## Logistic Regression
 ![Logistic reg1](https://user-images.githubusercontent.com/16623583/58027997-17ca2280-7b1a-11e9-8ff1-4e7d446516ac.JPG)
 ![LogisticReg2](https://user-images.githubusercontent.com/16623583/58028006-1b5da980-7b1a-11e9-921f-0c758451b141.JPG)
